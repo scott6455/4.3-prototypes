@@ -28,9 +28,6 @@
 // Create a simple constructor function called `Foo` and create a new
 // instance from it called `foo`.
 
-var Foo = function('foo');
-document.write(Foo.constructor);
-
 
 // -- ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ -- //
 
